@@ -5,3 +5,9 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+@font-face {
+  font-family: 'SEGA LOGO FONT';
+  font-style: normal;
+  font-weight: 400;
+  src: local('SEGA LOGO FONT'), url('https://fonts.cdnfonts.com/s/6218/SEGA.woff') format('woff');
+}
